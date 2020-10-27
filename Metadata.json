@@ -1,0 +1,20 @@
+{
+    "Author": "YASWANTHM-MSFT",
+    "ContentSize": 1737,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/copying-blobs-between-storage-accounts-in-different-regions/master/Copy%20files%20from%20one%20to%20another%20Storage%20Account.ps1",
+    "DownloadCount": 1056,
+    "Id": "Copying-blobs-between-b34f8224",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 194,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2019-2-25T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Easy way to copy the contents of azure storage container, such as files, VHd's,videos..etc from one storage account to another storage account using the latest power shell script Azure Storage Server side copy.",
+    "Title": "Copying blobs between storage accounts in different regions",
+    "UpdatedDate": "2019-2-25T00:00:00",
+    "Url": "https://github.com/azureautomation/copying-blobs-between-storage-accounts-in-different-regions",
+    "UserTags": "copy vhds, azure storage"
+}
